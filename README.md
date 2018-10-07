@@ -1,5 +1,5 @@
 
-
+![LOGO](./img/2confiaT.png)
 # ConfíaT: 
 
 Transparencia de la Información
@@ -100,6 +100,9 @@ Github
 
 App que permite generar el registro de usuario, creación de perfil, agregar donación realizada, elegir CRIT para donación.
 
+
+
+![MVP](./img/captura.jpg)
 
 
 
