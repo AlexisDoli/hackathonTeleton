@@ -3,7 +3,14 @@ page-item-detail {
     width: 100%;
     background-position: center center;
     background-size: cover;
+    z-index: 1;
+    background-repeat: repeat-x;
     height: 250px;
+    animation: animatedBackground 40s linear infinite;
+  }
+  @keyframes animatedBackground {
+    from { background-position: 0 0; }
+    to { background-position: 100% 0; }
   }
 
   .item-detail {

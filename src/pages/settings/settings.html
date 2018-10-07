@@ -1,45 +1,74 @@
 <ion-header>
 
-  <ion-navbar>
-    <ion-title>{{ pageTitle }}</ion-title>
+  <ion-navbar color="amarilloTele">
+    <ion-title>Equipo</ion-title>
   </ion-navbar>
 
 </ion-header>
 
 <ion-content>
 
-  <form [formGroup]="form" *ngIf="settingsReady">
-    <ion-list *ngIf="page == 'main'">
-      <ion-item>
-        <ion-label>{{ 'SETTINGS_OPTION1' | translate }}</ion-label>
-        <ion-toggle formControlName="option1"></ion-toggle>
-      </ion-item>
+    <ion-card>
+        <img src="../assets/img/bri.jpg"/>
+        <ion-card-content>
+          <ion-card-title>
+            Brenda Dominguez
+            </ion-card-title>
+          <p>
+            Artista Visual
+          </p>
+        </ion-card-content>
+      </ion-card>
 
-      <ion-item>
-        <ion-label>{{ 'SETTINGS_OPTION2' | translate }}</ion-label>
-        <ion-input formControlName="option2"></ion-input>
-      </ion-item>
+      <ion-card>
+          <img src="../assets/img/ro.jpg"/>
+          <ion-card-content>
+            <ion-card-title>
+              Ro
+              </ion-card-title>
+            <p>
+              UX Expert
+            </p>
+          </ion-card-content>
+        </ion-card>
 
-      <ion-item>
-        <ion-label>{{ 'SETTINGS_OPTION3' | translate }}</ion-label>
-        <ion-select formControlName="option3">
-          <ion-option value="1" checked="true">1</ion-option>
-          <ion-option value="2">2</ion-option>
-          <ion-option value="3">3</ion-option>
-        </ion-select>
-      </ion-item>
 
-      <button ion-item [navPush]="subSettings" [navParams]="profileSettings">
-        {{ 'SETTINGS_PROFILE_BUTTON' | translate }}
-      </button>
-    </ion-list>
+        <ion-card>
+            <img src="../assets/img/arana.jpg"/>
+            <ion-card-content>
+              <ion-card-title>
+                Diana Arana
+                </ion-card-title>
+              <p>
+                Frontend Expert
+              </p>
+            </ion-card-content>
+          </ion-card>
 
-    <ion-list *ngIf="page == 'profile'">
-      <ion-item>
-        <ion-label>{{ 'SETTINGS_OPTION4' | translate }}</ion-label>
-        <ion-input formControlName="option4"></ion-input>
-      </ion-item>
-    </ion-list>
-  </form>
+          <ion-card>
+              <img src="../assets/img/AlexisDoli.jpeg"/>
+              <ion-card-content>
+                <ion-card-title>
+                  AlexisDoli
+                  </ion-card-title>
+                <p>
+                  Fullstack Junior <br>
+                  Gestor de comunicaciones
+                </p>
+              </ion-card-content>
+            </ion-card>
 
-</ion-content>
+            <ion-card>
+                <img src="../assets/img/max.jpg"/>
+                <ion-card-content>
+                  <ion-card-title>
+                    MAX
+                    </ion-card-title>
+                  <p>
+                    Backend
+                  </p>
+                </ion-card-content>
+              </ion-card>
+
+  </ion-content>
+ 
