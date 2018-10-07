@@ -61,6 +61,29 @@ Fundación Teletón:
 
 - Pierde información valiosa para fidelizar la donación de éstos donantes.
 
+## Propuesta de Valor:
+
+La aplicación permitirá registrar a los donantes que hayan hecho donaciones offline en cualquiera a través de alguno de los siguientes mecanismos:
+
+Banamex
+
+Farmacias del Ahorro
+
+Infinitum
+
+Soriana
+
+Telcel
+
+Telecomm
+
+Telmex
+
+La plataforma le permitirá al donante registrar su donativo en su perfil, ésta aplicación es un canal de recuperación de información que nuestros mecanismos de recepción no recopilan en la actulidad.
+
+El backend de ésta aplicación deberá permitirle al Admin Teletón manipular la data de donantes para poder generar más donaciones y fidelización de los donantes actuales.
+
+
 
 ## Detalles de Implementación:
 
