@@ -1,5 +1,5 @@
 
-![LOGO](./img/2confiaT.jpg)
+![LOGO](https://github.com/AlexisDoli/hackathonTeleton/blob/master/img/2ConfiaT.jpg?raw=true)
 
 
 # ConfíaT: 
