@@ -8,7 +8,7 @@ Transparencia de la Información
 
 Desarrollaramos una app donde el público en general pueda consultar las donaciones recibidas en el evento Teletón. Además podrá registrar donaciones previas hechas a través de entidades que en éste momento no nos permiten conocer al donador. Ésta aplicación les facilitará el seguimiento de donaciones anteriores, realizar nuevas,  elegir a qué CRIT enviará su donación, hacer comentarios y/o preguntas y pertenecer a una comunidad de donadores Teletón. 
 
-Al generar un perfil que dé seguimiento a cada donación personal, recopilaremos data que permitirá que Teletón conocer a sus donantes, darles seguimiento, generar comunidad y buscar su fidelización.
+Al generar un perfil que dé seguimiento a cada donación personal, recopilaremos data que permitirá a Teletón conocer a sus donantes, darles seguimiento, generar comunidad y buscar su fidelización.
 
 
 ## Preámbulo:
