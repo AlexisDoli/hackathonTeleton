@@ -1,5 +1,5 @@
 
-![LOGO](./img/2confiaT.png)
+![LOGO](./img/2confiaT.jpg)
 # ConfíaT: 
 
 Transparencia de la Información
