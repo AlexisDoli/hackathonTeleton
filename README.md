@@ -84,6 +84,22 @@ La plataforma le permitirá al donante registrar su donativo en su perfil, ésta
 El backend de ésta aplicación deberá permitirle al Admin Teletón manipular la data de donantes para poder generar más donaciones y fidelización de los donantes actuales.
 
 
+## Producto Mínimo Viable:
+
+
+App que permite generar el registro de usuario, creación de perfil, agregar donación realizada, elegir CRIT para donación.
+
+
+
+![MVP](./img/captura.jpg)
+
+
+## Arquitectura de la Información:
+
+
+https://github.com/AlexisDoli/hackathonTeleton
+
+
 
 ## Detalles de Implementación:
 
@@ -118,16 +134,6 @@ Git
 
 
 Github
-
-
-## Producto Mínimo Viable:
-
-
-App que permite generar el registro de usuario, creación de perfil, agregar donación realizada, elegir CRIT para donación.
-
-
-
-![MVP](./img/captura.jpg)
 
 
 
